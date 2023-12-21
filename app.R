@@ -1,6 +1,6 @@
 
 # sourcetools::
-# source('./packages.R', local = T , echo = F)
+source('./packages.R', local = T , echo = F)
 source('./global.R')
 source('./www/css.R')
 options(dplyr.summarise.inform = FALSE)
